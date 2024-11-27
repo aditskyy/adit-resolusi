@@ -4,6 +4,7 @@ rencana konten adit
   *ES6
   *framework Javascrip
    ^Vue
+   ^React
 -Struktur Data Dasar
 -php framework
 *Laravel
