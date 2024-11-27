@@ -4,3 +4,6 @@ rencana konten adit
 *Laravel
 -Framework JS
 *react
+*native
+-Basis data
+-Phyton
