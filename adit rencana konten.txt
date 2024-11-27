@@ -1,11 +1,8 @@
 rencana konten adit
 
--Framework php
-*Laravel
-*golang
-*doulinggo
--Framework JS
-*react
-*native
--Basis data
--Phyton
+-Javascrip
+  *ES6
+  *framework Javascrip
+-Struktur Data Dasar
+-interview
+-Vlog
