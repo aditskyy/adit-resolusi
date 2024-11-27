@@ -7,7 +7,7 @@ rencana konten adit
    ^React
 -Struktur Data Dasar
 -php framework
-*Laravel
+^Laravel
 -interview
 -Vlog
 -python
