@@ -3,6 +3,10 @@ rencana konten adit
 -Javascrip
   *ES6
   *framework Javascrip
+   ^Vue
 -Struktur Data Dasar
+-php framework
+*Laravel
 -interview
 -Vlog
+-python
